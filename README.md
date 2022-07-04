@@ -8,7 +8,7 @@
 
 ![java](https://github.com/paulveillard/cybersecurity-java-security/blob/main/img/Java-Logo.png)
 
-# Contents
+# Table Contents
 - [Tools](#tools)
 - [Educational](#educational)
 - [Other](#other)
