@@ -8,14 +8,14 @@
 
 ![java](https://github.com/paulveillard/cybersecurity-java-security/blob/main/img/Java-Logo.png)
 
-# Table of Contents
+## `Table of Contents`
 - [Tools](#tools)
 - [Educational](#educational)
 - [Other](#other)
 
-# Tools
+## `Tools`
 
-## Web Framework Hardening
+## `Web Framework Hardening`
 
 - [Apache Shiro](https://shiro.apache.org/) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [JJWT](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android.
@@ -24,12 +24,12 @@
 - [Spring Security](https://github.com/spring-projects/spring-security) - A powerful and highly customizable authentication and access-control framework.
 - [Spring Security Oauth](https://github.com/spring-projects/spring-security-oauth) - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
 
-## Multi tools
+## `Multi tools`
 
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi-purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 
-## Static Code Analysis
+## `Static Code Analysis`
 
 - [Spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs/) - SpotBugs plugin for security audits of Java web applications and Android applications.
